@@ -75,7 +75,7 @@ I graduated with a **B.Sc. in Computer Engineering** (2020 – 2025) from the Al
 
 ### ✅ Tasky App
 
-**Flutter + Clean Architecture** · 2025
+**Flutter + Clean Architecture** · 
 
 A clean, scalable task management application with strict separation of concerns.
 
@@ -90,7 +90,7 @@ A clean, scalable task management application with strict separation of concerns
 
 ### 🧭 Tal3a App
 
-**Flutter + Location Services** · 2025
+**Flutter + Location Services** · 
 
 A multi-language lifestyle application for discovering restaurants, cafes, and malls near you.
 
@@ -105,7 +105,7 @@ A multi-language lifestyle application for discovering restaurants, cafes, and m
 
 ### 📅 Evently
 
-**Flutter + Firebase** · 2026
+**Flutter + Firebase** · 
 
 A cross-platform event scheduling platform built on scalable, decoupled, reusable widgets.
 
@@ -135,7 +135,7 @@ A high-fidelity media discovery application with a service-based MVVM architectu
 
 ## 💼 Experience
 
-**Mobile App Development — Route** · 2026 – Present
+**Mobile App Development — Route** · 
 Alexandria, Egypt
 
 - Building and deploying production-ready Flutter apps using Dart and OOP principles
@@ -150,7 +150,7 @@ Alexandria, Egypt
 - Integrated Firebase Auth, Cloud Firestore, and Cloud Storage
 - Profiled and debugged apps to resolve performance bottlenecks and runtime exceptions
 
-**Flutter Intern — Mindset Training Company** · 2024
+**Flutter Intern — Mindset Training Company** · 
 Alexandria, Egypt
 
 - Engineered cross-platform apps with a focus on runtime performance
@@ -171,7 +171,7 @@ Bachelor of Science in Computer Engineering
 
 ## 📚 Courses
 
-- **Master Data Structures, Algorithms, and Problem Solving Using Dart (with LeetCode Practice)** — Udemy, 2024
+- **Master Data Structures, Algorithms, and Problem Solving Using Dart (with LeetCode Practice)** — Udemy,
 
 ---
 
